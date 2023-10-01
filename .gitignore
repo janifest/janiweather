@@ -1,0 +1,28 @@
+# Dependencies
+node_modules
+
+# Build / Production
+/client/build
+
+# Environment Variables
+*.env*
+!.env.example
+
+# Logs
+/Logs
+*.log 
+
+# Editor
+.vscode
+
+# Temp
+*.sw?
+*.cache
+
+# Generated / Auto-generated files
+/dist
+/dist-ssr
+.eslintcache
+
+# Configuration
+.prettierrc
